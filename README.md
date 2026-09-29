@@ -6,12 +6,14 @@ An online camera shop: a catalog with filters and sorting, a product page with r
 similar items, a cart with coupons, and live search in the header. React 18 with Redux Toolkit,
 written in TypeScript and built with Vite.
 
-This is a training project, from an accelerator at HTML Academy, [production JavaScript, stage
+This is my graduation project from an accelerator at HTML Academy, [production JavaScript, stage
 16](https://up.htmlacademy.ru/profession/react-js/15/production-javascript/16/accelerator). I
 built it from February to June 2025 in three iterations, each adding or reworking a slice of the
 store: filters and sorting, then the cart with coupons, then reviews and the search. The task
-came as an archive of static markup, which I turned into components. There was no pull request
-review; each iteration was graded on its own.
+gave me an archive of static HTML and CSS (the layout, the UI kit, no JavaScript). Everything
+past that — the React components, the TypeScript types, the Redux store, routing, the API layer
+and the tests — is my own implementation, graded iteration by iteration, with no pull request
+review.
 
 [Live demo](https://camera-nine-beryl.vercel.app) · [How it works](#how-it-works) · [Run locally](#run-locally)
 
