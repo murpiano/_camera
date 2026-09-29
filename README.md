@@ -11,8 +11,8 @@ This is my graduation project from an accelerator at HTML Academy, [production J
 built it from February to June 2025 in three iterations, each adding or reworking a slice of the
 store: filters and sorting, then the cart with coupons, then reviews and the search. The task
 gave me an archive of static HTML and CSS (the layout, the UI kit, no JavaScript). Everything
-past that — the React components, the TypeScript types, the Redux store, routing, the API layer
-and the tests — is my own implementation, graded iteration by iteration, with no pull request
+past that, the React components, the TypeScript types, the Redux store, routing, the API layer
+and the tests, is my own implementation, graded iteration by iteration, with no pull request
 review.
 
 [Live demo](https://camera-nine-beryl.vercel.app) · [How it works](#how-it-works) · [Run locally](#run-locally)
